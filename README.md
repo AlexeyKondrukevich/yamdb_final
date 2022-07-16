@@ -15,7 +15,7 @@ REST API проект для сервиса YaMDb — сбор отзывов о
 Все описанное ниже относится к ОС Linux. 
 Клонируем репозиторий и и переходим в него: 
 ```sudo 
-git clone git@github.com:themasterid/yamdb_final.git
+git clone git@github.com:AlexeyKondrukevich/yamdb_final.git
 cd yamdb_final 
 cd api_yamdb 
 ``` 
